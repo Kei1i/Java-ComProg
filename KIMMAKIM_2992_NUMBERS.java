@@ -5,7 +5,6 @@
  * Monday Wednesday (10:30 am - 1:30 pm)
  * @version "17.0.2" 2022-01-18
  */
-package Exam;
 import java.util.Scanner;
 public class KIMMAKIM_2992_NUMBERS {
 
@@ -34,7 +33,8 @@ public class KIMMAKIM_2992_NUMBERS {
                 Sum/=10;
                 }
                 System.out.println("Reverse: "+reverse);
-        
+
+                
             }
 
         
